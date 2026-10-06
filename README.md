@@ -1,4 +1,4 @@
-# Agentic Compliance
+# super compliance
 
 [Open the interactive service preview](https://dreamcatcher-tech.github.io/agentic-compliance/).
 

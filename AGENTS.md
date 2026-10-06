@@ -2,7 +2,7 @@
 
 ## Owning scope
 
-This repository owns only the public Agentic Compliance informational static preview. Its content contract is a complete-feeling, explicitly illustrative service experience: proposed scope and tariffs, fictional evidence, local example downloads and clear assurance boundaries. It does not own a business backend or customer-data system.
+This repository owns only the public super compliance informational static preview. Its content contract is a complete-feeling, explicitly illustrative service experience: proposed scope and tariffs, fictional evidence, local example downloads and clear assurance boundaries. It does not own a business backend or customer-data system.
 
 Cross-repository working policy is owned by `dreamcatcher-tech/policies`, with its canonical catalogue at `catalog/policies.json`. Consult applicable effective policy through authorized access; do not copy private policy contents or working records here. This public site-only projection does not authorize other public disclosures.
 
